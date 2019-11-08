@@ -1,5 +1,5 @@
 # clean-jupyter
-Open-sourced script that lets you reorder the cells in a Jupyter notebook without re-running the code!
+Script that lets you reorder the cells in a Jupyter notebook without re-running the code. You can clean an entire folder and its subfolders, and remove error messages.
 
 # Quick Start
 Run:
